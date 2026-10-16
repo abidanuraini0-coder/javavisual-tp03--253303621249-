@@ -1,1 +1,1 @@
-![alt](path/ouput.png)
+![Output Character Manager](screenshot/output.png)
