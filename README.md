@@ -11,5 +11,6 @@ Nama lengkap:ABIDA NURAINI
 NIM:253303621249
 
 Kelas:3 PAGI B
-https://1drv.ms/w/c/ACEA0258ECD9ACB9/IQBb6kYrvv1LTLcNAx5_UImuAfFxY6naviT5lQNntOfwp0g?e=yZ95Oh
+https://docs.google.com/document/d/1kg9KVqys1HM8f8nPs1CzqRxS5ruRlpU1Ct58p5c1Q0o/edit?usp=sharing
+
 
