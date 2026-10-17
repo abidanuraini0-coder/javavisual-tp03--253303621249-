@@ -1,6 +1,5 @@
 "Character Manager — TP3 (Java Visual SIH-6406)"
 
-Deskripsi
 Character Manager adalah program berbasis Java yang digunakan untuk mengelola karakter dalam sebuah game. Program ini menerapkan konsep Object-Oriented Programming (OOP), seperti class, object, encapsulation, constructor, dan enum. Program ini juga memiliki fitur level up, pengelolaan mana, validasi mana, dan pengecekan status hidup karakter menggunakan method isAlive().
 
 <img width="848" height="523" alt="image" src="https://github.com/user-attachments/assets/a5cdd31b-1b79-4a96-9df7-636978e70b64" />
